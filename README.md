@@ -14,7 +14,7 @@ A showcase of my skills and projects. Over their my INTRODUCTION, PROFILE, Resum
 <br>
 
 ## Screenshots
-![](https://github.com/Ankesh054-official/profileankesh/blob/master/images/portfolio-project.png)
+![](https://raw.githubusercontent.com/Ankesh054-official/Portfolio/master/images/portfolio-project.pnghttps://raw.githubusercontent.com/Ankesh054-official/Portfolio/master/images/portfolio-project.png)
 
 <br>
 <br>
