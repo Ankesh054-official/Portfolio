@@ -1,6 +1,5 @@
 ## Portfolio
-This is my Portfolio, A showcase of my skills and projects. 
-
+A showcase of my skills and projects. Over their my INTRODUCTION, PROFILE, Resume and about Projects, All the details are their like: (Contact, Address, Email, Social accounts etc). 
 <br>
 <br>
 
