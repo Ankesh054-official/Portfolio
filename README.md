@@ -14,9 +14,11 @@ A showcase of my skills and projects. Over their my INTRODUCTION, PROFILE, Resum
 <br>
 
 ## Screenshots
-<img align="left" alt="Portfolio website screenshot" src="https://github.com/Ankesh054-official/Portfolio/blob/master/images/portfolio-project.png?raw=true" />
+![screenshot]
 
 <br>
 <br>
 
 ## LicenseMIT © [Ankesh054-official](https://github.com/Ankesh054-official)
+
+[screenshot]: https://github.com/Ankesh054-official/Portfolio/blob/master/images/portfolio-project.png?raw=true
