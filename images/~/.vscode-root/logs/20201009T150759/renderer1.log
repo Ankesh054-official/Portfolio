@@ -1,1 +1,0 @@
-[2020-10-09 15:08:21.433] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 100% of 5948.64ms, saved PROFILE here: '/tmp/exthost-9be555.cpuprofile' [{"id":"gc","total":146,"percentage":0},{"id":"ritwickdey.LiveServer","total":5947936,"percentage":100}]

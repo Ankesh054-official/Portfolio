@@ -94,8 +94,7 @@
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As...",
-                        "enabled": false
+                        "label": "Save &&As..."
                     },
                     {
                         "id": "workbench.action.files.saveAll",
@@ -574,8 +573,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -584,8 +582,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1459,7 +1456,8 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/usr/share/kali-defaults/web/images/~/.vscode-root/Backups/1602236281281",
+            "folder": "file:///usr/share/kali-defaults/web",
+            "backupPath": "/usr/share/kali-defaults/web/images/~/.vscode-root/Backups/1d5b622104aa93fda95eb9ce21511ab3",
             "uiState": {
                 "mode": 0,
                 "x": 0,
