@@ -1,0 +1,9 @@
+[2020-10-09 15:08:05.940] [sharedprocess] [info] main {"machineId":"ab7b754ea097b682288fd58e70d10c27920e6b39548e0e43de9256f504fde3f9","windowId":2}
+[2020-10-09 15:08:06.250] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/usr/share/kali-defaults/web/images/~/.vscode-root/User/snippets'
+[2020-10-09 15:08:15.217] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-10-09 15:08:46.178] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-10-09 15:09:54.110] [sharedprocess] [info] Downloaded extension: ms-python.python /usr/share/kali-defaults/web/images/~/.vscode-root/CachedExtensionVSIXs/ms-python.python-2020.9.114305
+[2020-10-09 15:10:10.594] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-python.python-2020.9.114305: ms-python.python
+[2020-10-09 15:10:10.595] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.python-2020.9.114305
+[2020-10-09 15:10:10.612] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-10-09 15:10:10.759] [sharedprocess] [info] Extensions installed successfully: ms-python.python
